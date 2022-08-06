@@ -31,7 +31,7 @@ from cooldowns import get_remaining_calls,cooldown,SlashBucket,CallableOnCooldow
 
 #pip install function-cooldowns
 
-# db['Guild'] = 901932361229410334
+# db['Guild'] = 1003101535003213875
 # db['Ownerrole'] = 954845327465271336
 # db['Managerrole'] = db['Ownerrole']
 # db['Modrole'] = db['Ownerrole']
