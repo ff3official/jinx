@@ -67,7 +67,7 @@ from cooldowns import get_remaining_calls,cooldown,SlashBucket,CallableOnCooldow
 # db['AlertsChannel'] = {}
 # db['Season'] = {}
 # db['Week'] = {}
-# db['Guilds'] = [968256394073616394]
+# db['Guilds'] = [1003101535003213875]
 
 
 teamnames = ['Kansas City Chiefs','Minnesota Vikings','Dallas Cowboys','Green Bay Packers','San Francisco 49ers','Tampa Bay Buccaneers','Philadelphia Eagles','Pittsburgh Steelers','Seattle Seahawks','Chicago Bears','Cleveland Browns','Miami Dolphins','Las Vegas Raiders','Denver Broncos','New York Jets','New York Giants','Buffalo Bills','Washington Commanders','Carolina Panthers','Baltimore Ravens','New Orleans Saints','New England Patriots','Atlanta Falcons','Indianapolis Colts','Arizona Cardinals','Los Angeles Rams','Cincinnati Bengals','Tennessee Titans','Houston Texans','Los Angeles Chargers','Jacksonville Jaguars','Detroit Lions']
